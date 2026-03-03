@@ -4,7 +4,6 @@
 - Audrey Salvo  
 - Xerxes Ramos  
 - Daniel Bustamante  
-- Chanelle Suriba  
 - Zoe Lara  
 - Jade Felisan  
 
@@ -13,9 +12,7 @@
 
 - **Audrey Salvo** – Participated in system planning discussions and helped review the project structure and documentation.
 
-- **Daniel Bustamante** – Assisted in organizing repository files and coordinating dataset preparation during earlier phases.
-
-- **Chanelle Suriba** – Contributed to proposal conceptualization and provided feedback on system design.
+- **Daniel Bustamante** – Assisted in organizing repository files and coordinating dataset preparation during earlier phases and contributed to proposal conceptualization and provided feedback on system design.
 
 - **Zoe Lara** – Helped in reviewing documentation and testing system outputs during development stages.
 
