@@ -18,10 +18,10 @@ This project uses a dataset of customer coffee transactions to help summarize ke
 # Planned Features
 
 - Feature 1: Count how many people ordered a latte.
-- Feature 2: Compute the average quantity of coffee ordered.
-- Feature 3: Display total sales for all completed transactions.
-- Feature 4: List all customers with their order status (Completed, Pending, or Cancelled).
-- Feature 5: Identify the most popular coffee type.
+- Feature 2: How many people prefer less or no sugar.
+- Feature 3: Compute the average quantity of coffee ordered.
+- Feature 4: Display total sales for all completed transactions.
+- Feature 5: List all customers with their order status (Completed, Pending, or Cancelled).
 
 # Planned Inputs and Outputs
 
